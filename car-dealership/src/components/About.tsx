@@ -21,8 +21,8 @@ const About = () => {
                         <div className="w-full flex-col justify-start lg:items-start items-center gap-3 flex">
                             <h2
                                 className="text-gray-100 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
-                                Empowering Each Other to Succeed</h2>
-                            <p className="text-gray-100 text-base font-normal leading-relaxed lg:text-start text-center">
+                                Empowering Each Other</h2>
+                            <p className="text-gray-400 text-base font-normal leading-relaxed lg:text-start text-center">
                                 Every project we've undertaken has been a collaborative effort, where every person
                                 involved has left their mark. Together, we've not only constructed buildings but also
                                 built enduring connections that define our success story.</p>
@@ -30,15 +30,15 @@ const About = () => {
                         <div className="w-full lg:justify-start justify-center items-center sm:gap-10 gap-5 inline-flex">
                             <div className="flex-col justify-start items-start inline-flex">
                                 <h3 className="text-gray-100 text-4xl font-bold font-manrope leading-normal">6+</h3>
-                                <h6 className="text-gray-100 text-base font-normal leading-relaxed">Years of Experience</h6>
+                                <h6 className="text-gray-400 text-base font-normal leading-relaxed">Years of Experience</h6>
                             </div>
                             <div className="flex-col justify-start items-start inline-flex">
                                 <h4 className="text-gray-100 text-4xl font-bold font-manrope leading-normal">125+</h4>
-                                <h6 className="text-gray-100 text-base font-normal leading-relaxed">Successful Projects</h6>
+                                <h6 className="text-gray-400 text-base font-normal leading-relaxed">Successful Projects</h6>
                             </div>
                             <div className="flex-col justify-start items-start inline-flex">
                                 <h4 className="text-gray-100 text-4xl font-bold font-manrope leading-normal">40+</h4>
-                                <h6 className="text-gray-100 text-base font-normal leading-relaxed">Happy Clients</h6>
+                                <h6 className="text-gray-400 text-base font-normal leading-relaxed">Happy Clients</h6>
                             </div>
                         </div>
                     </div>
