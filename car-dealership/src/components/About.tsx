@@ -42,10 +42,7 @@ const About = () => {
                             </div>
                         </div>
                     </div>
-                    <button
-                        className="sm:w-fit w-full px-3.5 py-2 bg-indigo-600 hover:bg-indigo-800 transition-all duration-700 ease-in-out rounded-lg shadow-[0px_1px_2px_0px_rgba(16,_24,_40,_0.05)] justify-center items-center flex">
-                        <span className="px-1.5 text-white text-sm font-medium leading-6">Read More</span>
-                    </button>
+                    <button className='mt-5 mr-2 p-2 pr-5 pl-5 rounded text-gray-200 bg-gradient-to-r from-teal-600 via-teal-500 to-teal-400 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300'>Zu den Autos</button>
                 </div>
             </div>
         </div>
