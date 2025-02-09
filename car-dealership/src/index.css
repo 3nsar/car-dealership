@@ -10,6 +10,6 @@
 
 @layer base {
     html {
-        @apply bg-slate-950;
+        @apply bg-zinc-950;
     }
 }
