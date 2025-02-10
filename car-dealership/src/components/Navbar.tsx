@@ -37,9 +37,8 @@ const Navbar = () => {
               <div className="lg:hidden fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center items-center">
                   <ul>
                     <li className='py-4'><a href="#">Home</a></li>
-                    <li className='py-4'><a href="#">Contact</a></li>
-                    <li className='py-4'><a href="#">Contact</a></li>
-                    <li className='py-4'><a href="#">Pricing</a></li>
+                    <li className='py-4'><a href="#">Autos</a></li>
+                    <li className='py-4'><a href="#">Kontakt</a></li>
                   </ul>
                   <div className="flex flex-col justify-center ">
                   <a href="#" className='py-1 px-2 text-center rounded-md bg-gradient-to-r from-teal-600 via-teal-500 to-teal-400 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-teal-300'>
